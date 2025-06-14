@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "vite": "^6.1.0"
+  },
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+  },
+
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
